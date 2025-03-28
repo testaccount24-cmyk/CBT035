@@ -242,5 +242,4 @@ This is still a work in progress. GitHub repos will be deleted and created durin
 //*                                              till the end.      *   FILE 035
 //*                                              Display in decimal *   FILE 035
 //*                                              112 bytes wide.    *   FILE 035
-//*                                                                 *   FILE 035
-//*           FILE 035 IS AN OLD LOAD MODULE THAT WAS COMPILED      *   FILE 044```
+//*                                                                 *   FILE 035```
